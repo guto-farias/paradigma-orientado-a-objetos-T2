@@ -1,5 +1,7 @@
 # Jogo de Bocha em C++
 
+**LINK DO VÍDEO SOLICITADO:**https://www.youtube.com/watch?v=bBcm_rmhVGA&t=5s
+
 Este projeto implementa um jogo simples de **bocha** (ou bocce) entre duas equipes, desenvolvido utilizando **C++ com programação orientada a objetos**.
 O objetivo é arremessar bolas tentando deixá-las o mais próximo possível do bolim (bola alvo).
 
